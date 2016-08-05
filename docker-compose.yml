@@ -1,0 +1,4 @@
+rngd:
+  image: mhiroaki/rng-tools
+  net: none
+  privileged: true
